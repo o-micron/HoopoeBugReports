@@ -7,6 +7,11 @@ Help Hoopoe getting better by :
 - creating an issue describing the bug, what was expected vs what happened
 - requesting a new feature
 
+# Release v1.0.7.0
+- [x] Fix bug related to the added Github/Bitbucket/Gitlab remote links
+- [x] Fix bug related results list syncing with the links context menu
+- [x] Improve overall loading time by 2x
+
 # Release v1.0.6.0
 - [x] Open matched files at the matched locations in:
   - [x] Default browser in case of a remote repository [Github/Bitbucket/Gitlab]
