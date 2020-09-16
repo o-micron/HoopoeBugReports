@@ -7,6 +7,9 @@ Help Hoopoe getting better by :
 - creating an issue describing the bug, what was expected vs what happened
 - requesting a new feature
 
+# Release v1.0.8.0
+- [x] Just hot fixes
+
 # Release v1.0.7.0
 - [x] Fix bug related to the added Github/Bitbucket/Gitlab remote links
 - [x] Fix bug related results list syncing with the links context menu
