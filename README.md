@@ -7,6 +7,16 @@ Help Hoopoe getting better by :
 - creating an issue describing the bug, what was expected vs what happened
 - requesting a new feature
 
+# Possible features to come soon
+- [ ] Reduce memory usage
+- [ ] Select Exact branch and commit
+- [ ] Add Emacs, Vim and other editors and IDEs ..
+- [ ] Pipe result to another program ? Maybe ?
+- [ ] Create CLI clone of the same app ? Integrate it with Github CLI ?
+- [ ] Allow the user to define the number of cores to use instead of using all cores
+- [ ] Allow the user to enable GPU usage for faster processing
+- [ ] Use Cuda
+
 # Release v1.0.8.0
 - [x] Just hot fixes
 
