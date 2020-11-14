@@ -1,6 +1,7 @@
 # HoopoeBugReports
 Hoopoe is available today on Windows 10, [download it from windows store](https://www.microsoft.com/en-us/p/hoopoe/9ppl3f6g79zl?rtc=1&activetab=pivot:overviewtab)
 
+[![screenshot](https://store-images.s-microsoft.com/image/apps.42747.14326917767895587.a4c84da7-8d3b-45f0-ac42-475c23921e2a.21c94fd6-c97f-4f88-9180-93b244de57ce?w=1399&h=787&q=90&format=jpg)]()
 
 # Reporting issues
 Help Hoopoe getting better by :
